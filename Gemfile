@@ -8,6 +8,10 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bourbon'
+
+# Login Social Gem Authentication
+gem 'omniauth'
+
 group :development, :test do
   gem 'byebug'
 end
