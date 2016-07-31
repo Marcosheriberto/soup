@@ -12,6 +12,7 @@ gem 'bourbon'
 # Login Social Gem Authentication
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'omniauth-instagram'
 
 group :development, :test do
   gem 'byebug'
