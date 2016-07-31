@@ -13,6 +13,7 @@ gem 'bourbon'
 gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'omniauth-instagram'
+gem 'omniauth-twitter'
 
 group :development, :test do
   gem 'byebug'
